@@ -1,9 +1,9 @@
 Mi Currículum Vitae Web
 Este proyecto es mi CV personal desarrollado de forma nativa para presentar mi perfil profesional, habilidades y proyectos como desarrolladora. El objetivo fue aplicar buenas prácticas de maquetación y diseño centrado en el usuario.
 
-🚀 Demo en vivo
-Puedes ver el resultado final aquí:
-Ver mi CV en Vercel: https://mi-cv-ten-lime.vercel.app/
+### 🚀 Ver mi CV en vivo
+Haz clic en el siguiente enlace para ver el despliegue en Vercel:
+**[Ver CV de Ingrid Cañete](https://mi-cv-ten-lime.vercel.app/)**
 
 🛠️ Tecnologías utilizadas
 HTML5: Estructura semántica para mejorar la accesibilidad y el SEO.
