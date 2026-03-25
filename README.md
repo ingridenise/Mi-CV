@@ -3,7 +3,7 @@ Este proyecto es mi CV personal desarrollado de forma nativa para presentar mi p
 
 🚀 Demo en vivo
 Puedes ver el resultado final aquí:
-Ver mi CV en Vercel
+Ver mi CV en Vercel: https://mi-cv-ten-lime.vercel.app/
 
 🛠️ Tecnologías utilizadas
 HTML5: Estructura semántica para mejorar la accesibilidad y el SEO.
